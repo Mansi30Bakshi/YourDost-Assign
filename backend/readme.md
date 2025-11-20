@@ -112,3 +112,31 @@ Common error codes:
 
 ## Data Storage
 Todos are automatically saved to `todo.json` file in the same directory.
+
+
+## Deployment to Render
+Live Demo
+Base URL: https://yourdost-assign.onrender.com
+
+Deployment Steps
+Prerequisites
+Code pushed to GitHub repository
+
+Render account (sign up with GitHub)
+
+Deployment Process
+Go to Render Dashboard
+
+Click "New+" button and select "Web Service"
+
+Connect your GitHub repository
+
+Configure settings:
+
+Environment: Node
+
+Build Command: npm install
+
+Start Command: node server.js
+
+Click "Create Web Service"
