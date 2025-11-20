@@ -129,11 +129,8 @@ Method: GET with pagination
 npm install -g vercel
 vercel --prod
 ```
-
-### Netlify Deployment
-1. Build project: `npm run build`
-2. Drag `dist` folder to Netlify
-3. Your app is live! 🎉
+##Deployed Link
+https://your-dost-assign.vercel.app/
 
 ## 🤝 Contributing
 
@@ -142,10 +139,6 @@ vercel --prod
 3. Commit changes: `git commit -m 'Add new feature'`
 4. Push to branch: `git push origin feature/new-feature`
 5. Open Pull Request
-
-## 📄 License
-
-MIT License - feel free to use this project for learning and development.
 
 
 **Built with ⚡ Vite + React**
